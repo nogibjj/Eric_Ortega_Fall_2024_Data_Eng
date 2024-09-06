@@ -7,7 +7,7 @@ This repository is used for our first Data Engineering Assignment. It will be us
 
 
 
-This repository serves as a simple addition function
+The repository serves as a simple addition function
 Description: This script demonstrates a basic Python program that performs addition using a function called add. The main() function initializes two variables, x and y, and uses the add() function to calculate their sum.
 
 How It Works
