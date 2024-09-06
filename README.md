@@ -19,6 +19,9 @@ If the script is run as the main program, the main() function is executed.
 
 # Some explanation and breakdown: 
 
+[main.py](main.py)
+Function: Main entry point of a project containing program. 
+
 [requirements.txt](requirements.txt)
 
 Function: This file lists all the Python dependencies required for the project. It specifies the exact versions of packages needed, making it easy to install all dependencies with a single command.
