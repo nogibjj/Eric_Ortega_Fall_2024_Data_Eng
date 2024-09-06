@@ -27,7 +27,7 @@ Function: Main entry point of a project containing program.
 
 Function: This file lists all the Python dependencies required for the project. It specifies the exact versions of packages needed, making it easy to install all dependencies with a single command.
 
-[hello.yml](hello.yml)
+[hello.yml](.github/workflows/hello.yml)
 
 Function: This file is typically used for workflows in CI/CD (Continuous Integration/Continuous Deployment) systems, like GitHub Actions. It defines automated processes, such as running tests, building the project, or deploying it when certain events occur.
 
