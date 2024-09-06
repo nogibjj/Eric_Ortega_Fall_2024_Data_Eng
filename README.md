@@ -20,6 +20,7 @@ If the script is run as the main program, the main() function is executed.
 # Some explanation and breakdown: 
 
 [main.py](main.py)
+
 Function: Main entry point of a project containing program. 
 
 [requirements.txt](requirements.txt)
