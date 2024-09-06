@@ -26,3 +26,6 @@ Function: This file is typically used for workflows in CI/CD (Continuous Integra
 
 3. Makefile
 Function: A Makefile is used to automate tasks in software development, especially compiling and building projects. It contains a set of rules defining how to execute commands for tasks like building, testing, or cleaning up files. This helps streamline repetitive commands.
+
+4. test.py
+Function: test.py is a script typically used to contain test cases for a project. It includes functions or classes designed to verify that the code works as expected. 
