@@ -19,7 +19,7 @@ If the script is run as the main program, the main() function is executed.
 
 # Some explanation and breakdown: 
 
-## 1. requirements.txt
+1. [requirements.txt] (https://github.com/nogibjj/Eric_Ortega_Fall_2024_Data_Eng/blob/main/requirements.txt)
 Function: This file lists all the Python dependencies required for the project. It specifies the exact versions of packages needed, making it easy to install all dependencies with a single command.
 
 ## 2. hello.yml
