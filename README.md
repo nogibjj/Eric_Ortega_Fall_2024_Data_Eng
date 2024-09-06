@@ -20,13 +20,17 @@ If the script is run as the main program, the main() function is executed.
 # Some explanation and breakdown: 
 
 [requirements.txt](requirements.txt)
+
 Function: This file lists all the Python dependencies required for the project. It specifies the exact versions of packages needed, making it easy to install all dependencies with a single command.
 
 [hello.yml](hello.yml)
+
 Function: This file is typically used for workflows in CI/CD (Continuous Integration/Continuous Deployment) systems, like GitHub Actions. It defines automated processes, such as running tests, building the project, or deploying it when certain events occur.
 
 [Makefile](Makefile)
+
 Function: A Makefile is used to automate tasks in software development, especially compiling and building projects. It contains a set of rules defining how to execute commands for tasks like building, testing, or cleaning up files. This helps streamline repetitive commands.
 
 [test.py](test.py)
+
 Function: test.py is a script typically used to contain test cases for a project. It includes functions or classes designed to verify that the code works as expected. 
